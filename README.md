@@ -1,6 +1,8 @@
 # Frowser
 PyQt5 Based Browser
 
+UPDATE: Moved to StellarSurf
+
 Browser removes the B to an F = Frowser LOL
 
 P.S. If you have a Better me please let me know
